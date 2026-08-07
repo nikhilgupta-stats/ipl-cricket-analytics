@@ -12,10 +12,11 @@ IPL franchises and analysts rely on player and match statistics to understand pe
 - Examine head-to-head records and venue-specific win patterns between teams
 - Present findings through an interactive Power BI dashboard
 - Identify statistically undervalued batters and bowlers based on performance metrics (Python analysis — not included in the Power BI dashboard)
+- Design a normalized PostgreSQL schema and resolve data-quality issues (inconsistent team/venue naming across seasons)
 
 ## Tools Used
 - **Python** (Pandas, Matplotlib, Seaborn) — Data cleaning, analysis & visualization
-- **PostgreSQL** — Data querying and storage
+- **PostgreSQL** — Schema design, data cleaning, and relational analysis (window functions, joins, views)
 - **Power BI** — Interactive dashboard
 
 ## Dataset
@@ -31,6 +32,8 @@ ipl-cricket-analytics/
 │   └── ipl_analysis.ipynb
 ├── dashboard/
 │   └── ipl_dashboard.pbix
+├── queries/
+│   └── analysis.sql
 └── screenshots/
     ├── overview.png
     ├── toss_chase_impact.png
