@@ -38,3 +38,19 @@ ipl-cricket-analytics/
     ├── bowling_leaderboard.png
     └── head_to_head_venues.png
 ```
+
+## Dashboard Preview
+**Overview**
+![Overview](screenshots/overview.png)
+
+**Toss & Chase Impact**
+![Toss & Chase Impact](screenshots/toss_chase_impact.png)
+
+**Batting Leaderboard**
+![Batting Leaderboard](screenshots/batting_leaderboard.png)
+
+**Bowling Leaderboard**
+![Bowling Leaderboard](screenshots/bowling_leaderboard.png)
+
+**Head-to-Head & Venues**
+![Head-to-Head & Venues](screenshots/head_to_head_venues.png)
