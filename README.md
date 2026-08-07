@@ -11,9 +11,10 @@ IPL franchises and analysts rely on player and match statistics to understand pe
 - Analyze the impact of toss decisions (bat vs. field) on match outcomes
 - Examine head-to-head records and venue-specific win patterns between teams
 - Present findings through an interactive Power BI dashboard
+- Identify statistically undervalued batters and bowlers based on performance metrics (Python analysis — not included in the Power BI dashboard)
 
 ## Tools Used
-- **Python** (Pandas) — Data cleaning & aggregation
+- **Python** (Pandas, Matplotlib, Seaborn) — Data cleaning & aggregation
 - **PostgreSQL** — Data querying and storage
 - **Power BI** — Interactive dashboard
 
