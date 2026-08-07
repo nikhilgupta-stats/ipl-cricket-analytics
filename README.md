@@ -14,7 +14,7 @@ IPL franchises and analysts rely on player and match statistics to understand pe
 - Identify statistically undervalued batters and bowlers based on performance metrics (Python analysis — not included in the Power BI dashboard)
 
 ## Tools Used
-- **Python** (Pandas, Matplotlib, Seaborn) — Data cleaning & aggregation
+- **Python** (Pandas, Matplotlib, Seaborn) — Data cleaning, analysis & visualization
 - **PostgreSQL** — Data querying and storage
 - **Power BI** — Interactive dashboard
 
